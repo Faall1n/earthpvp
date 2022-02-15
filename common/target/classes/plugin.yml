@@ -1,0 +1,8 @@
+main: br.com.earthpvp.spigot.SpigotMain
+version: 1.0
+name: EarthCommon
+
+depends:
+  - LuckPerms
+softdepends:
+  - LuckPerms

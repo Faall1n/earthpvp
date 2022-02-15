@@ -1,0 +1,8 @@
+main: br.com.earthpvp.bungee.BungeeMain
+version: 1.0
+name: EarthCommon
+
+depends:
+  - LuckPerms
+softdepends:
+  - LuckPerms
